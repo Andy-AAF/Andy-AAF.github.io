@@ -1,4 +1,4 @@
-baseURL: https://Andy-AAF.github.io
+baseURL: https://hugo-toha.github.io
 
 languageCode: en
 title: "Andy's Blog"
@@ -27,7 +27,7 @@ languages:
     weight: 1
   fr:
     languageCode: fr
-    languageName: Francais
+    languageName: Français
     title: Blog d'Andy
     weight: 2
 # default language for the content
