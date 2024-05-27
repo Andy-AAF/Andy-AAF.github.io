@@ -11,63 +11,58 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: EMC
+    #url: "https://www.example.com"
+    location: France
+    logo: /images/sections/experiences/emc2.png
     # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company1.jpg
+    # darklogo: /images/sections/experiences/emc2.png
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: EMC is a leading provider of pharmaceutical data, offering valuable insights to guide strategic decisions of industry stakeholders.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Data Analyst 
+    start: March 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Gather data sets from various sources and prepare them for analysis by cleansing errors and irrelevant data.
+    - Utilize statistical techniques and analysis methods to explore data, identify significant trends, patterns, and correlations.
+    - Develop statistical models or machine learning algorithms to predict future outcomes or identify abnormal behaviors.
+    - Present findings and recommendations resulting from analysis in a clear and concise manner to team members and stakeholders.
+    
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Pharmacessions
+    url: "https://www.pharmacessions.com/"
+    location: France
+    logo: /images/sections/experiences/pharma.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Pharmacessions is a specialized agency for buying and selling pharmacies in France.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Analyst 
+    start: September 2020
+    end: October 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Create clear and informative visualizations, such as charts, interactive dashboards, to present analysis results in a understandable manner to stakeholders.
+    - Work closely with other team members, including software engineers and decision-makers, to understand business needs and provide data-driven solutions.
+    - Identify opportunities to improve data analysis processes and propose solutions to optimize efficiency and quality of results.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Carli Immobilier
+    #url: "https://www.example.com"
+    location: France
+    #logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Real estate agency specialized in the sale of new and old properties.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Real Estate Transaction Advisor
+    start: June 2018
+    end: May 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Provide advice and recommendations to clients on buying, selling, or renting real estate properties based on their needs and goals.
+    - Negotiate sales or rental terms of real estate properties on behalf of clients, ensuring to obtain the best possible terms in terms of price, timing, and conditions.
+    - Coordinate and oversee the entire real estate transaction process, including drafting contracts, reviewing legal documents, and coordinating inspections and appraisals.
+    - Cultivate and maintain strong relationships with existing and potential clients, as well as with other real estate professionals, to foster business opportunities and client retention.

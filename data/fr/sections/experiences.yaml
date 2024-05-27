@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: EMC
+    #url: "https://www.example.com"
+    location: France
+    logo: /images/sections/experiences/emc2.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/emc2.png
+    # company overview
+    overview: EMC est fournisseur de premier plan de données pharmaceutiques, offrant des insights précieux pour guider les décisions stratégiques des acteurs du secteur.
+  positions:
+  - designation: Analyste de données 
+    start: Mars 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Rassembler des ensembles de données provenant de diverses sources et les préparer pour l'analyse en éliminant les erreurs et les données inutiles.
+    - Utiliser des techniques statistiques et des méthodes d'analyse pour explorer les données, identifier des tendances, des modèles et des corrélations significatifs.
+    - Développer des modèles statistiques ou des algorithmes d'apprentissage automatique pour prédire des résultats futurs ou identifier des comportements anormaux.
+    - Présenter les conclusions et les recommandations découlant de l'analyse de manière claire et concise aux membres de l'équipe et aux parties prenantes.
+    
+
+- company:
+    name: Pharmacessions
+    url: "https://www.pharmacessions.com/"
+    location: France
+    logo: /images/sections/experiences/pharma.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+    overview: Pharmacessions est une agence spécialiste de l'achat et la vente de pharmacie en France.
+  positions:
+  - designation: Analyste de données 
+    start: Sept 2020
+    end: Oct 2022
+    responsibilities:
+    - Créer des visualisations claires et informatives, telles que des graphiques, des tableaux de bord interactifs, pour présenter les résultats de l'analyse de manière compréhensible aux parties prenantes.
+    - Travailler en étroite collaboration avec d'autres membres de l'équipe, y compris les ingénieurs logiciels et les décideurs, pour comprendre les besoins commerciaux et fournir des solutions basées sur les données.
+    - Identifier les opportunités d'amélioration des processus d'analyse de données et proposer des solutions pour optimiser l'efficacité et la qualité des résultats.
+
+- company:
+    name: Carli Immobilier
+    #url: "https://www.example.com"
+    location: France
+    #logo: /images/sections/experiences/company3.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: Agence Immobiliere specialisée dans la vente de neufs et anciens.
+  positions:
+  - designation: Conseiller en Transactions Immobilières
+    start: Juin 2018
+    end: Mai 2019
+    responsibilities:
+    - Fournir des conseils et des recommandations aux clients sur l'achat, la vente ou la location de biens immobiliers en fonction de leurs besoins et de leurs objectifs.
+    - Négocier les conditions de vente ou de location des biens immobiliers au nom des clients, en veillant à obtenir les meilleurs termes possibles en termes de prix, de délais et de conditions.
+    - Coordonner et superviser l'ensemble du processus de transaction immobilière, y compris la rédaction des contrats, la vérification des documents juridiques et la coordination des inspections et des évaluations.
+    - Cultiver et entretenir des relations solides avec les clients existants et potentiels, ainsi qu'avec d'autres professionnels de l'immobilier, afin de favoriser les opportunités d'affaires et de fidéliser la clientèle.

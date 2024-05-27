@@ -2,16 +2,16 @@
 name: "Andy Ferrara"
 nickname: "Andy"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Bonjour, je suis"
 image: "images/author/andy.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ferraraandy@hotmail.com"
-  phone: "08095316561"
+  phone: "+0623116991"
   github: Andy-AAF
   linkedin: andy-ferrara-982095301
 
 # some summary about what you do
 summary:
-  - I am a Data Analyst
-  - I love to work with some fun projects
+  - Je suis analyste de données
+
