@@ -16,7 +16,7 @@ degrees:
   institution:
     name: UPVD Alumni
     url: "https://www.upvd-alumni.fr/dashboard"
-    logo: /images/sections/education/upvd.png
+    ###logo: /images/sections/education/upvd.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   publications: #(optional)
@@ -33,7 +33,7 @@ degrees:
   institution:
     name: Valoriale Formation
     url: "https://www.valoriale.org/"
-    logo: /images/sections/education/valoriale.png
+    ###logo: /images/sections/education/valoriale.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/university.jpg
   publications: #(optional)
@@ -48,6 +48,6 @@ degrees:
   institution:
     name: IDELCA Business School
     url: "https://idelca.fr/"
-    logo: /images/sections/education/idelca.png
+    ###logo: /images/sections/education/idelca.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/science_college.png

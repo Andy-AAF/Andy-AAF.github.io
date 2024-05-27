@@ -12,30 +12,30 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python
-  logo: /images/sections/skills/python.png
+  ###logo: /images/sections/skills/python.png
   summary: "Programmeur Python qualifié avec une solide compétence en analyse, manipulation et visualisation de données. Expérience avancée dans l'utilisation des bibliothèques Python pour extraire des insights pertinents à partir de jeux de données complexes."
   url: "https://www.python.org/"
 
 - name: SQL
-  logo: /images/sections/skills/sql.png
+  ###logo: /images/sections/skills/sql.png
   summary: "Maîtrise avancée de SQL, exploitant ses capacités pour gérer, interroger et analyser efficacement des ensembles de données complexes. Compétent dans la création de requêtes SQL optimisées et expert dans les principes de conception de bases de données, la normalisation et l'indexation pour garantir l'intégrité des données et les performances du système."
 #  url: "https://golang.org/"
 
 - name: Analyse de données
-  logo: /images/sections/skills/analytics.png
+  ###logo: /images/sections/skills/analytics.png
   summary: "Analyste de données expérimenté avec un solide historique de réussite dans l'extraction d'informations exploitables à partir d'ensembles de données complexes. Compétent en analyse statistique, en tests d'hypothèses et en modélisation prédictive. Habile à traduire les découvertes de données en rapports clairs et concis, ainsi qu'en présentations pour les parties prenantes."
 
 - name: Visualisation des données
-  logo: /images/sections/skills/data.png
+  ###logo: /images/sections/skills/data.png
   summary: "Spécialiste compétent en visualisation de données, transformant des données complexes en visuels convaincants. Maîtrise les outils Tableau, ainsi que les bibliothèques telles que panda, numpy et leaflet. Crée des graphiques informatifs, des diagrammes et des tableaux de bord interactifs pour favoriser la compréhension et l'engagement."
   #url: "https://www.docker.com/"
 
 - name: Linux
-  logo: /images/sections/skills/linux.png
+  ###logo: /images/sections/skills/linux.png
   summary: "Utilisation comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
 
 - name: Git
-  logo: /images/sections/skills/git.png
+  ###logo: /images/sections/skills/git.png
   summary: "Expérience dans le développement basé sur Git. Principalement, j'utilise GitHub. J'ai également de l'expérience dans le travail avec GitLab."
   url: "https://git-scm.com/"
 

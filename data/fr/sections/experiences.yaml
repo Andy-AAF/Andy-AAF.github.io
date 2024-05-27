@@ -14,7 +14,7 @@ experiences:
     name: EMC
     #url: "https://www.example.com"
     location: France
-    logo: /images/sections/experiences/emc2.png
+    ###logo: /images/sections/experiences/emc2.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/emc2.png
     # company overview
@@ -36,7 +36,7 @@ experiences:
     name: Pharmacessions
     url: "https://www.pharmacessions.com/"
     location: France
-    logo: /images/sections/experiences/pharma.png
+    ###logo: /images/sections/experiences/pharma.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
     overview: Pharmacessions est une agence spécialiste de l'achat et la vente de pharmacie en France.
