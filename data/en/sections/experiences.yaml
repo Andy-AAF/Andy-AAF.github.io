@@ -15,6 +15,7 @@ experiences:
     #url: "https://www.example.com"
     location: France
     logo: /images/sections/experiences/emc2.png
+
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/emc2.png
     # company overview

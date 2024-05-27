@@ -25,5 +25,9 @@ openGraph:
   title: Andy's Blog
   type: website
   description: Portfolio and personal blog of Andy Ferrara.
+<<<<<<< HEAD
   image: images/author/andy.png
+=======
+  ###image: images/author/andy.png
+>>>>>>> d893db4b572ca5afdb87efab38aaccad29c446aa
   #url: https://hugo-toha.github.io
