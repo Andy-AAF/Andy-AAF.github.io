@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: A propos
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Analyst
+designation: Analyste de données
 # your company information
   #company:
   #  name: Example Co.
@@ -19,7 +19,7 @@ designation: Data Analyst
 # resume: "static/files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate data analyst with 5 years of professional experience. I have worked on various data analysis projects, ranging from predictive modeling to descriptive analysis. I am also proficient in data visualization and communicating results to stakeholders."
+summary: "Je suis un analyste de données passionné avec 5 ans d'expérience professionnelle. J'ai travaillé sur divers projets d'analyse de données, allant de la modélisation prédictive à l'analyse descriptive. Je suis également compétent dans la visualisation des données et la communication des résultats aux parties prenantes."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -60,7 +60,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Mon CV"
   url: "files/resume.pdf"
 
 # Show your badges
@@ -84,12 +84,12 @@ badges:
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Data Analysis
+  name: Analyse de Données
   percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Data Visualization
+  name: Visualisation de Données
   percentage: 90
   color: yellow
 

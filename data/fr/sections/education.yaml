@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Bachelor's degree in Law, Economics, Management
+- name: Licence en Droit, Économie, Gestion
   icon: fa-graduation-cap
   timeframe: 2020-2021
   institution:
@@ -20,14 +20,14 @@ degrees:
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   publications: #(optional)
-  - title: Understanding economic principles to analyze market trends and financial performance.
+  - title: Compréhension des principes économiques pour analyser les tendances du marché et les performances financières.
     url: "#"
-  - title: Management skills to effectively lead data analysis projects.
+  - title: Compétences en gestion pour mener efficacement des projets d'analyse de données.
     url: "#"
-  - title: Ability to clearly communicate analysis results to stakeholders.
+  - title: Capacité à communiquer clairement les résultats de l'analyse aux parties prenantes.
     url: "#"
 
-- name: Banking and Payment Services Intermediaries
+- name: Intermédiaires en services bancaires et de paiement
   icon: fa-graduation-cap
   timeframe: 2020
   institution:
@@ -37,12 +37,11 @@ degrees:
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/university.jpg
   publications: #(optional)
-  - title: In-depth understanding of financial transactions and transaction models.
+  - title: Compréhension approfondie des transactions financières et des modèles de transaction.
     url: "#"
-  - title: Knowledge of financial regulations and compliance.
-    url: "#"
+  - title: Connaissance des réglementations financières et de la conformité.
 
-- name: Higher Technician Certificate (BTS)
+- name: Brevet de technicien supérieur (BTS)
   icon: fa-university
   timeframe: 2018-2020
   institution:
