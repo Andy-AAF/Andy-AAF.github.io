@@ -28,7 +28,7 @@ languages:
   fr:
     languageCode: fr
     languageName: Francais
-    title: Blog d'Andy
+    title: Portfolio d'Andy
     weight: 2
 # default language for the content
 defaultContentLanguage: en
