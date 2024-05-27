@@ -2,7 +2,7 @@
 title: Top Category Sample
 menu:
   sidebar:
-    name: Category
+    name: বিভাগ
     identifier: category
     weight: 20
 ---

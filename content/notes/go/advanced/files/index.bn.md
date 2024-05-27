@@ -1,9 +1,9 @@
 ---
-title: File Manipulation
+title: ফাইল ম্যানিপুলেশন
 weight: 40
 menu:
   notes:
-    name: File Manipulation
+    name: ফাইল ম্যানিপুলেশন
     identifier: notes-go-advanced-files
     parent: notes-go-advanced
     weight: 10

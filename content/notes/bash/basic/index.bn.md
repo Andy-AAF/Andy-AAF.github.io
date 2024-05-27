@@ -1,9 +1,9 @@
 ---
-title: Bash Variables
+title: ব্যাশ ভেরিয়েবল
 weight: 210
 menu:
   notes:
-    name: Variables
+    name: ভেরিয়েবল
     identifier: notes-bash-variables
     parent: notes-bash
     weight: 10

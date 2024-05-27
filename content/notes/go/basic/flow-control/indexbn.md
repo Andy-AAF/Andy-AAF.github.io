@@ -1,9 +1,9 @@
 ---
-title: Flow Control
+title: ফ্লো কন্ট্রোল
 weight: 30
 menu:
   notes:
-    name: Flow Control
+    name: ফ্লো কন্ট্রোল
     identifier: notes-go-basics-flow-control
     parent: notes-go-basics
     weight: 30
